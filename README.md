@@ -1,0 +1,1 @@
+# seam_carving_divide_and_conquer
